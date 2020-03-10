@@ -1,0 +1,6 @@
+lambethd\kraken\producer\interfaces\IKafkaProducerCreator.class
+lambethd\kraken\producer\application\Configuration.class
+lambethd\kraken\producer\service\KafkaProducerCreator.class
+lambethd\kraken\producer\application\Application.class
+lambethd\kraken\producer\kafka\IKafkaConstants.class
+lambethd\kraken\producer\service\TradeProducer.class
